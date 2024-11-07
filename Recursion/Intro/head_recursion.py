@@ -4,12 +4,14 @@ class Tail_Recursion():
         if n == 0:
             return 0
         
+        print("Call stack here", n)
+        
         # make the recursive function call
         self.tail(n-1) 
         
         # Then we do any operation
-        print(n, "call stack")
+        print(n, "Final Result")
     
     
-sol = Tail_Recursion()
+sol = Tail_Recursion()   
 sol.tail(5)
