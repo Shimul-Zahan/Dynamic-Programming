@@ -1,7 +1,3 @@
----
-title: Dynamic Programming (DP) Problems & Techniques
-description: A collection of DP problems and solutions to master dynamic programming concepts and techniques.
----
 
 # 🌟 Dynamic Programming (DP) Problems & Techniques
 
